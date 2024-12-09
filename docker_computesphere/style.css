@@ -1,0 +1,23 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #F7FAFC;
+text-align:center;
+margin-top: 50px;
+}
+#link-button {
+background-color: #60C2A6;
+padding: 0.5rem;
+color: #FFF;
+text-decoration: none;
+}
+#content-paragraph {
+background-color: #202E7A;
+color: #FFF;
+margin: auto;
+margin-top: 2rem;
+width: 30%;
+display: none;
+justify-content: center;
+align-items: center;
+height: 4rem;
+}
